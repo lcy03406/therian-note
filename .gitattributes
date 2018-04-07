@@ -1,0 +1,2 @@
+*.csv merge=coopy-merge-csv
+*.xlsx merge=coopy-merge-xlsx
